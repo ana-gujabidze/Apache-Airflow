@@ -1,4 +1,4 @@
-# Example of DAGs
+# Apache-Airflow
 
 This repository contains example DAGs that implements simple concepts from Apache Airflow and `requirements.txt` listing the necessary packages.
 
